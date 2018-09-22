@@ -710,12 +710,12 @@ Coffee break and Exercise
 =========================================================
 
 
-* [RNAseq DE Exercises](https://yfwang27.github.io/RNAseq_CBW2018/course/exercise/Exercise_BasicDifferentialAnalysis.html)
+* [RNAseq DE Exercises](exercise/Exercise_BasicDifferentialAnalysis.html)
 
 Solutions
 =========================================================
 
-* [RNAseq DE Solutions](https://yfwang27.github.io/RNAseq_CBW2018/course/exercise/Answers_BasicDifferentialAnalysis.html)
+* [RNAseq DE Solutions](exercise/Answers_BasicDifferentialAnalysis.html)
 
 
 
@@ -942,12 +942,12 @@ low counts [2]     : 5916, 26%
 Exercises
 =========================================================
 
-* [RNAseq Visualization Exercises](https://yfwang27.github.io/RNAseq_CBW2018/course/exercise/Exercises_Visualization.html)
+* [RNAseq Visualization Exercises](exercise/Exercises_Visualization.html)
 
 Solutions
 =========================================================
 
-* [RNAseq Visualization Solutions](https://yfwang27.github.io/RNAseq_CBW2018/course/exercise/Answers_Visualization.html)
+* [RNAseq Visualization Solutions](exercise/Answers_Visualization.html)
 
 
 
@@ -1121,13 +1121,13 @@ write.csv(restemp,file="GO_Kegg_Wallenius.csv", row.names=F)
 Exercises
 =========================================================
 
-* [RNAseq GO Exercises](https://yfwang27.github.io/RNAseq_CBW2018/course/exercise/Exercise_FunctionalAnalysis.html)
+* [RNAseq GO Exercises](exercise/Exercise_FunctionalAnalysis.html)
 
 
 Solutions
 =========================================================
 
-* [RNAseq GO Solutions](https://yfwang27.github.io/RNAseq_CBW2018/course/exercise/Answers_FunctionalAnalysis.html)
+* [RNAseq GO Solutions](exercise/Answers_FunctionalAnalysis.html)
 
 Session Information
 ========================================================
